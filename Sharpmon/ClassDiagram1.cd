@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sharpmon.Sharpmon">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECMAAECAkAIEIwAEgAJKEQFTCEGBQIpBAgQRoAC5CA=</HashCode>
+      <FileName>Sharpmon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.player">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAIBAAACAwAQAgAAAQAgAIAAADAAAACBAAABCA=</HashCode>
+      <FileName>player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Attack">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAACACAEA=</HashCode>
+      <FileName>Attack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Sharpmender">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sharpmender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Effect">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Sharpmon.Effect.Target" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Effect.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Sharpmon.Effect.PropertieEvolution" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Effect.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Sharpmon.Effect.PropertieIsActivated" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Effect.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABBAACAQkAAJQgAAAAMBAwBACAAAAABAAAAAgCAEAw=</HashCode>
+      <FileName>Effect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Item">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Sharpasaur">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sharpasaur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Sharpitle">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sharpitle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.Game">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAAAAAAAgAAAQAAAIAAAEAABCAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharpmon.AllSharpmons">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllSharpmons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
